@@ -4,3 +4,4 @@
 
 Para ejecutar el sistema, debes colocar :
 ```npm install react```
+Siguiente sisetema de Registros
